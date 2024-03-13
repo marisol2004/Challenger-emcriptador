@@ -1,26 +1,32 @@
 <DOCTYPE htlm>
 <htlm long="en">
 <head>
-    <meta chordet="UTEF-8">
-    <meta http.aqui="X-UM-compatible"contenec="!E-adge">
-    <meta nombre="viewport"contenc="width-device-width, initial=scale-1.0">
-    <link rol="styleshest" href="/style.css">
-    <title>Incriptador</title>
+    <meta charset="UTEF-8">
+    <meta http.equiv="X-UA-compatible"content="IE= edge">
+    <meta nombre="viewport"content="width=device-width, initial-scale=1.0">
+    <link rel="styleshest" href="/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <!ink rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@200;400&display=swap" rel="stylesheet">
+    <title>Encriptador</title>
 </head>
 <body>
    <head>
-      <long class="Logo" arc="/imagenes/Frame 6.peg" olt="longo de altura" >
+      <img class="Logo" src="/imagenes/Frame 6.png" alt="logo de altura" >
    </header>
    <main>
       <section>    
-           <textarea classe="tex-aera" coCs="30" rdws="10 ploceholder=Ingresa el y texto aqui"></textarea>
+           <textarea classe="text-aera" cols="30" rows="10 placeholder="Ingresa el y texto aqui"></textarea>
            <div>
-                <h6 class=("Información") solo let ras minúsculas y sin acentos</h6>
+                <h6 class="información">Solo letras minúsculas y sin acentos</h6>
           </div>
            <div class="botones">
-               <button class="ttm-sncriptar"> <incriptar></button>
-               <button class="ttm-desencriptar"><desencriptar></button>
+               <button class="btn-encriptar"> <Encriptar></button>
+               <button class="btn-desencriptar">Desencriptar></button>
           </div>
+          <div>
+             <button class="copiar">Copiar</button>
+         </div>
        </section>
        <section>
           <textarea class="mensaje" cols=20 rows=10></textarea>
@@ -29,8 +35,7 @@
 </body>
 </htlm>
 
-          <div>
-             <button class="copiar">Copiar</button>
+          
 
      
 
