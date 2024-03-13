@@ -1,0 +1,92 @@
+*{
+    background: #f3f5fc
+    font-familiy: "Inter";
+    font-welght: 400;
+    font-sice : 32px;
+    !Ine-height: 25;
+}
+.logo{
+   padding-top: 10px;
+   marginn-left: 10px;
+  width: , 105;
+}
+main{
+   display: fles
+   margin-botton:50px;
+   marigin-left:80px;
+}
+.text-area{
+   borde: nome;
+   coloro: #000080
+   margin-top:90 px;
+   text-transform: lowarcase;
+}
+ Placoholder (color: f0A3871;){
+  .text-area:focus{
+      outilne: nome;
+  }
+   . mensaje{
+       background: white
+       background-imagen: url(-/"imagen/muñeco.pog");
+       background-repeat: nu/reparto;
+       borde:nome;
+       buorde-radtus:34px;
+       color: f0A3871
+       margin-lett:10px;
+       margin-laft:20px;
+       padding-left:20px;
+       position: flied;
+   }
+   . mensaje:focus{
+       outline:nome;
+   }
+   .botones{
+      display: flex;
+      margin-top:10px;
+   }
+   .btn:descriptor{
+      bockground:# C0CfE8
+      borde:1px solid #0AJ871
+      borde-radlus:24px;
+      color:#0AJ871
+      cursos: pointer           
+      height: 67px;
+      margin-left: 30px;
+      width:328 px;
+   }
+   btn.incriptor {
+     background-color": #0AJ871;
+     border:1px solid #0AJ871
+     bordorde-radlus:24px;
+     color: while;
+     cursos: pointer;
+     height:67px;
+     width:324px;
+   }
+   .copiar { 
+     background-color": #0AJ871;
+     border:1px solid #0AJ871
+     bordorde-radlus:24px;
+     color: while;
+     cursos: pointer;
+     height:67px;
+     width:324px;
+   }
+ . información {
+      color:#456405J;$
+      font-site:18px;
+ }
+        
+   
+   
+
+     
+     
+   
+         
+     
+         
+                              
+
+  
+  
